@@ -53,4 +53,12 @@ performance de ativos. Alguns exemplos: forwards, futures, swaps.
 - *Arbitragem:* É uma estratégia de compra e venda cujo objetivo é ter um lucro sem possibilidade de prejuízo.
 - *Vanilla Option:* São tipos de opções(calls e puts do tipo europeu) amplamente negociadas no mercado, incluindo o brasileiro. Tem esse nome por ser algo comum como sorvete de baunilha.
 
-### Questão 12
+### Questão 13
+Opções são contrados onde o assinante ao vencimento do contrato pode escolher em executar ou não o próprio. Obrigações Futuras, como o nome ja diz, são contratos em que 
+fica obrigatório a execução ao chegar em seu vencimento.
+
+### Questão 14
+É um derivativo financeiro que promove simultaneamente a troca de taxas ou rentabilidade de ativos financeiros entre agentes econômicos.Serve com a finalidade de evitar movimento disfuncional do mercado de câmbio.
+
+### Questão 15
+
