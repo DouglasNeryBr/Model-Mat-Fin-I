@@ -46,3 +46,11 @@ Exemplos: Call e Put.
 performance de ativos. Alguns exemplos: forwards, futures, swaps.
 
 ### Questão 11
+- *Strike:* Termo refere-se ao valor acordado em um contrato para que no futuro, ao decidir comprar um ativo no contrato, seja pago esse valor(Strike).
+- *Payoff:* É uma função que calcula o lucro ou prejuízo obtido num contrato ao chegar a sua respectiva data de expiração.
+- *Tempo de expiração:* É o termo referido ao tempo até o vencimento de um contrato.
+- *Hedge:* Hedge é um instrumento de proteção contra os riscos das oscilações de mercado. Consiste em tomar uma posição oposta em um contrato, como futuros ou opções, para minimizar o impacto de variações de preços no ativo.
+- *Arbitragem:* É uma estratégia de compra e venda cujo objetivo é ter um lucro sem possibilidade de prejuízo.
+- *Vanilla Option:* São tipos de opções(calls e puts do tipo europeu) amplamente negociadas no mercado, incluindo o brasileiro. Tem esse nome por ser algo comum como sorvete de baunilha.
+
+### Questão 12
