@@ -60,5 +60,24 @@ fica obrigatório a execução ao chegar em seu vencimento.
 ### Questão 14
 É um derivativo financeiro que promove simultaneamente a troca de taxas ou rentabilidade de ativos financeiros entre agentes econômicos.Serve com a finalidade de evitar movimento disfuncional do mercado de câmbio.
 
-### Questão 15
+### Questão 16
+Todas informações contidas no BOOK de ofertas.
 
+### Questão 17
+É uma estratégia de colocar no BOOK de ofertas um comando de venda de um ativo caso chegue a um valor pré-estipulado. Valor esse, que é menor do que o atual. É uma tentativa de mitigar a perda em um ativo que está em desvalorização.
+
+### Questão 18
+Títulos de renda fixa são ativos que oferecem uma certeza sobre o que será pago no vencimento. Exemplos: títulos do governo (LTN, LFT) e CDB's.
+
+### Questão 19
+- *Call:* É um contrato que oferece a opção de comprar um ativo no seu vencimento. Serve para quando o comprador prevê que um ativo irá valorizar. Dessa forma, no futuro pode lucrar comprando o mesmo ativo por um valor menor(que foi estipulado no momento de assinatura do contrato).
+- *Put:* É um contrrato de opção similar ao call, com a diferença que no vencimento do contrato o proprietário tem a opção de vender um ativo. Serve para momentos onde a pessoa preve que o ativo irá desvalorizar. Dessa forma, a pessoa tem um lucro podendo vender por um valor maio que foi decido no momento de assinatura do contrato.
+
+### Questão 20
+Porque no contrato 2, ao utilizar o valor da compra do contrato para investir em um ativo, torna o balanço da conta dinâmico. Podemos resolver matemáticamente essa incógnita e encontrar um valor ideal para esse derivativo. Já no contrato 1, não existe essa possibilidade. O valor do contrato é fixo e após o resultado do dado o saldo em conta é o mesmo, dessa maneira, não tem o que calcular ou resolver matemáticamente é algo concreto e imutável.
+Em resumo, o que torna isso possível apenas para o contrato 2 é a variabilidade no saldo ao utilizar o valor do contrato para comprar uma certa quantidade de um ativo que no futuro altera o saldo.
+
+### Questão 21
+É um derivativo que funciona como um seguro para o mercado financeiro. Funciona da seguinte maneira, o comprador pode assinar um contrato de proteção contra inadimplência em um ativo e pagar uma taxa periódica para essa proteção. Caso ocorra de fato uma inadimplência, o vendedor se compromete a pagar todos prémios e juros devidos na data de vencimento. É um contrato de swap de crédito onde o comprador pode tomar medidas de controle de risco e transferir o risco para a seguradora em troca de pagamentos regulares. 
+
+### Questão 22
