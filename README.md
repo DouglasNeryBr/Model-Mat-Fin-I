@@ -1,7 +1,8 @@
-# Model-Mat-Fin-I
+# Modelagem Matemática em Finanças
 
-Neste repositório colocarei minhas soluções dos exercícios e projetos de estudo sobre o livro [Finanças Matemáticas](https://github.com/DouglasNeryBr/Model-Mat-Fin-I/blob/main/Financas_Matematica_Marco_Cabral.pdf). Esse um livro texto principal para o curso de Modelagem Matemática em Finanças 1 do curso de Matemática Aplicada na UFRJ. 
+Neste repositório colocarei minhas soluções dos exercícios e projetos de estudo sobre o livro [Finanças Matemáticas](https://github.com/DouglasNeryBr/Model-Mat-Fin-I/blob/main/Financas_Matematica_Marco_Cabral.pdf). Esse o principal livro texto para o curso de Modelagem Matemática em Finanças 1 do curso de Matemática Aplicada na UFRJ.
 
+### Sumário dos conteúdos abordados no livro:
 Nome | Descrição
 :---------: | :------:
 [01 - Introdução]()| História das Finanças, Mercado Fianceiro, Ações, Bolsa de Valores, Animais e o Mercado, Ativos e Derivativos, Precificando Contratos, Matemática nas Finanças e Finanças e Filosofia
