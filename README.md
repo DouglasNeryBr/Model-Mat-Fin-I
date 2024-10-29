@@ -5,7 +5,7 @@ Neste repositório colocarei minhas soluções dos exercícios e projetos de est
 ### Sumário dos conteúdos abordados no livro:
 Nome | Descrição
 :---------: | :------:
-[01 - Introdução]()| História das Finanças, Mercado Fianceiro, Ações, Bolsa de Valores, Animais e o Mercado, Ativos e Derivativos, Precificando Contratos, Matemática nas Finanças e Finanças e Filosofia
+[01 - Introdução](https://github.com/DouglasNeryBr/Model-Mat-Fin-I/tree/main/Cap%C3%ADtulo%201)| História das Finanças, Mercado Fianceiro, Ações, Bolsa de Valores, Animais e o Mercado, Ativos e Derivativos, Precificando Contratos, Matemática nas Finanças e Finanças e Filosofia
 [02 - Opções Europeias]()| Modelo de Um Período, Conceitos de Finanças Matemática, Opções no Modelo de Um Período, Modelo de Vários Períodos, Generalizando o Modelo e Greeks
 [03 - Probabilidade e Finanças]()| Definições Básicas, Momentos de uma Variável Aleatória, Esperança Condicional, Esperança Condicional(caso geral), Martingal e Teoremas Fundamentais
 [04 - Esquemas Numéricos em Finanças]()| Calibrando, Simulando, Precificando, Teoria: Mudança de Escala e Método JR
